@@ -7,5 +7,6 @@ Castle Infinity chat panel.
 - Contact: dion.jones@gmail.com
 
 C8 Chat is not affiliated with Castle Infinity, its preservation project, or any
-rights holder. The canonical policy source lives in the private C8 Chat source
-repository and is mirrored here so the browser-store listings have a public URL.
+rights holder. The canonical policy source lives in the C8 Chat source repository
+and is mirrored here so the policy has a stable public URL and GitHub Releases can
+link to it.
